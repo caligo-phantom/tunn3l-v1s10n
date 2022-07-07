@@ -42,4 +42,9 @@ The correct bytes are as follows.
 42 4d 8e 26 2c 00 00 00 00 00 ba d0 00 00 28 00
 00 00 6e 04 00 00 40 03
 ```
-Moving the file 'tunn3lv1s10n' to 'tunn3lv1s10n.bmp' we get the final image as follows.
+Moving the file 'tunn3lv1s10n' to 'tunn3lv1s10n.bmp' we get the final image as follows.<br>
+
+![Final Image](https://github.com/caligo-phantom/tunn3l-v1s10n/blob/main/tunn3l_v1s10n.bmp)
+
+## Flag
+picoCTF{qu1t3_a_v13w_2020}
